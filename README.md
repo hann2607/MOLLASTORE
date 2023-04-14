@@ -46,7 +46,7 @@
 <h1>3. ACCOUNT<h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117273434/231944701-962cae3b-c9fb-4dd2-8126-c1088028f741.png">
-  <h1>2. ACCOUNT ORDER<h1>
+  <h1>3.1 ACCOUNT ORDER<h1>
   <img src="https://user-images.githubusercontent.com/117273434/231944817-6db2026b-7122-43fb-ad6a-ad7faef87258.png">
   <img src="https://user-images.githubusercontent.com/117273434/231944885-2f5ea063-c000-4bb1-8d85-4f80904eb70f.png">
 </p>
