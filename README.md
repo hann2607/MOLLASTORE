@@ -8,15 +8,25 @@
 
 [2. HOMEPAGE](#homepage)  
 
-[3. SHOP](#shop)  
+[3. ACCOUNT](#account)  
 
-[4. DETAILS PRODUCT](#detailsProduct)  
+[4. SHOP](#shop)  
+
+[5. DETAILS PRODUCT](#detailsProduct)  
   
-[5. CART](#cart) 
+[6. CART](#cart) 
 
-[6. CHECKOUT](#checkout)  
+[7. CHECKOUT](#checkout)  
 
-[7. FEEDBACK](#feedback)  
+[8. ABOUT US](#aboutus)  
+
+[9. CONTACT](#contact)  
+
+[10. ORDER MANAGEMENT](#adminorder)  
+
+[11. PRODUCT MANAGEMENT](#adminproduct)  
+
+[12. ACCOUNT MANAGEMENT](#adminaccount)  
 
   
 <a name = "login"></a>
@@ -33,7 +43,7 @@
 </p>
 
 <a name = "account"></a>
-<h1>2. ACCOUNT<h1>
+<h1>3. ACCOUNT<h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117273434/231944701-962cae3b-c9fb-4dd2-8126-c1088028f741.png">
   <h1>2. ACCOUNT ORDER<h1>
@@ -42,60 +52,60 @@
 </p>
   
 <a name = "shop"></a>
-<h1>3. SHOP<h1>
+<h1>4. SHOP<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944137-8b8bbb3f-1e4f-4ac0-a8cc-5545f9401bb6.png">
 </p>
 
 <a name = "detailsProduct"></a>
-<h1>4. DETAILS PRODUCT<h1>
+<h1>5. DETAILS PRODUCT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944199-568d8b72-8380-4fd4-a172-0b17b624c224.png">
 </p>
   
   <a name = "cart"></a>
-<h1>5. MINI CART<h1>
+<h1>6. MINI CART<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944286-acef880b-8454-4e9d-923b-4a733858f2f3.png">
 </p>
   
- <h1>5.1 PAGE CART<h1>
+ <h1>6.1 PAGE CART<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944426-667ab649-45bb-41e8-ad0c-bd94ba038dc9.png">
 </p>
 
 <a name = "checkout"></a>
-<h1>6. CHECKOUT<h1>
+<h1>7. CHECKOUT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944567-fe91686a-29e3-4a57-8866-e041fd023b10.png">
 </p>
 
 <a name = "aboutus"></a>
-<h1>7. ABOUT US<h1>
+<h1>8. ABOUT US<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231945002-14ba6904-3059-44ab-8b35-53a33f371e23.png">
 </p>
 
 <a name = "contact"></a>
-<h1>7. CONTACT<h1>
+<h1>9. CONTACT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231945116-4d2f13d3-6b26-4917-9f9e-c1936dec28c3.png">
 </p>
 
 <a name = "adminorder"></a>
-<h1>7. ORDER MANAGEMENT<h1>
+<h1>10. ORDER MANAGEMENT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231945358-df543aa0-f40c-45e6-a7c4-63a401715294.png">
 </p>
 
 <a name = "adminproduct"></a>
-<h1>7. PRODUCT MANAGEMENT<h1>
+<h1>11. PRODUCT MANAGEMENT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231946803-32e536f3-159b-4451-a7af-13420a0b1067.png">
 </p>
 
 <a name = "adminaccount"></a>
-<h1>7. ACCOUNT MANAGEMENT<h1>
+<h1>12. ACCOUNT MANAGEMENT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231946905-6eb81988-cbd2-4650-9e79-66a8dd9dd9ce.png">
 </p>
