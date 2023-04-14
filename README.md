@@ -12,7 +12,7 @@
 
 [4. SHOP](#shop)  
 
-[5. DETAILS PRODUCT](#detailsProduct)  
+[5. DETAILS PRODUCT](#detailsproduct)  
   
 [6. CART](#cart) 
 
@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/117273434/231944137-8b8bbb3f-1e4f-4ac0-a8cc-5545f9401bb6.png">
 </p>
 
-<a name = "detailsProduct"></a>
+<a name = "detailsproduct"></a>
 <h1>5. DETAILS PRODUCT<h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/117273434/231944199-568d8b72-8380-4fd4-a172-0b17b624c224.png">
