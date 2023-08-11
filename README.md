@@ -39,6 +39,7 @@
 <a name = "homepage"></a>
 <h1>2. HOMEPAGE<h1>
 <p align="center">
+  
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117273434/259980589-333b914d-8d83-473f-ac0c-3116b57a2502.png">
 </p>
 
