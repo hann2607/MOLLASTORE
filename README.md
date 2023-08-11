@@ -32,10 +32,8 @@
 <a name = "login"></a>
 <h1>1. SIGNIN/SIGNUP<h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/117273434/231943868-a7770326-d0b5-4379-9390-fe5950a2bb16.png">
-  ![image](https://github.com/hann2607/MOLLASTORE/assets/117273434/79f3d7f2-adb6-441d-8e96-4e80e3f18b42)
-
-<img src="https://user-images.githubusercontent.com/117273434/231943935-ab8d9cd6-d829-4504-9eda-8d3331c798bb.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117273434/259979494-79f3d7f2-adb6-441d-8e96-4e80e3f18b42.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117273434/259979834-5f1eb4e2-549b-4953-b23f-d829c751fa40.png">
 </p>
   
 <a name = "homepage"></a>
